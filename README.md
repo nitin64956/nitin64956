@@ -7,7 +7,7 @@
 - 🌱 &nbsp; Currently Learning MERN Stack, Data Structures and Algorithms and Systems Design.
 - 💼 &nbsp; Worked as Software Engineer at JK Technosoft Private Limited.
 - ✍️ &nbsp; Passionate to contribute to open-source projects, design and build cool products.
-- 🤔 &nbsp; Currently looking for MERN Stack Roles!
+- 🤔 &nbsp; Currently looking for ReactJS, MERN Stack Roles!
   
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
