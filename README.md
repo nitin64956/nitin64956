@@ -7,7 +7,7 @@
 - 🌱 &nbsp; Skilled in MERN Stack, NextJS, NodeJS, TailwindCSS, Product Management, Team Leadership.
 - 💼 &nbsp; Have 5yrs of experience working and leading teams for SAAS products/webapps for US clients/Businesses.
 - ✍️ &nbsp; Passionate to contribute to open-source projects, design and build cool products.
-- 🤔 &nbsp; Currently looking for ReactJS, MERN Stack, Prduct Manager Roles!
+- 🤔 &nbsp; Currently looking for ReactJS, MERN Stack, Product Manager Roles!
   
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
