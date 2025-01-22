@@ -1,13 +1,13 @@
 <img align="right" src="https://avatars.githubusercontent.com/u/19369555?s=60&v=4">
 
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hey there! I'm Nitin a passionate fullstack software engineer.</h2>
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hey there! I'm Nitin a Fullstack Engineer & Product Enthusiast (Growth).</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🌱 &nbsp; Currently Learning MERN Stack, Data Structures and Algorithms and Systems Design.
-- 💼 &nbsp; Worked as Software Engineer at JK Technosoft Private Limited.
+- 🌱 &nbsp; Skilled in MERN Stack, NextJS, NodeJS, TailwindCSS, Product Management, Team Leadership.
+- 💼 &nbsp; Have 5yrs of experience working and leading teams for SAAS products/webapps for US clients/Businesses.
 - ✍️ &nbsp; Passionate to contribute to open-source projects, design and build cool products.
-- 🤔 &nbsp; Currently looking for ReactJS, MERN Stack Roles!
+- 🤔 &nbsp; Currently looking for ReactJS, MERN Stack, Prduct Manager Roles!
   
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
